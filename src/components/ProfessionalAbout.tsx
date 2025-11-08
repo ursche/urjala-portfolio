@@ -39,7 +39,7 @@ const ProfessionalAbout = () => {
                 className="w-full max-w-lg mx-auto rounded-2xl shadow-2xl hover-lift"
               />
               <div className="absolute -top-6 -right-6 bg-accent text-accent-foreground p-4 rounded-xl shadow-lg">
-                <div className="text-2xl font-bold">6+</div>
+                <div className="text-2xl font-bold">1+</div>
                 <div className="text-sm">Years</div>
               </div>
             </div>
