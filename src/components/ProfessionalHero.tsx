@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Download } from "lucide-react";
 import heroBg from "@/assets/hero-bg.jpg";
-import cv from "@/assets/cv.pdf";
+import cv from "@/assets/Urjala_Pariyar_CV.pdf";
 
 const ProfessionalHero = () => {
   return (
